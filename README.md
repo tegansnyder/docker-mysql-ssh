@@ -6,7 +6,7 @@ Docker container with Mysql and SSH. Pieced together from other repos like: http
 Build and run:
 <pre>
 git clone https://github.com/tegansnyder/docker-mysql-ssh.git
-cd docker-mysql-shh
+cd docker-mysql-ssh
 docker build -t your-nickname .
 docker run -d your-nickname
 </pre>
